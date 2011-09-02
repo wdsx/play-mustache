@@ -1,0 +1,7 @@
+conf
+.classpath
+.project
+lib/play-mustache.jar
+dist
+eclipse
+.settings
